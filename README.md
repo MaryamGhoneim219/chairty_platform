@@ -1,2 +1,2 @@
-# chairty_platform
+#Charity_Platform
  new
